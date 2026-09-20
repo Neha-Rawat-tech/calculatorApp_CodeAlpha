@@ -21,7 +21,7 @@ The app allows users to perform basic arithmetic operations with a clean, respon
 
 ## 🚀 Live Demo  
 
-🔗 [View Live Project]()    
+🔗 [View Live Project](https://neha-rawat-tech.github.io/calculatorApp_CodeAlpha/)    
 
 ---
 
