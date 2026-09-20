@@ -57,7 +57,7 @@ The app allows users to perform basic arithmetic operations with a clean, respon
 
 ## 👨‍💻 Author  
 
-- **Saumya Singh**  
+- **Neha Rawat**  
   GitHub: [@Neha-Rawat-tech](https://github.com/Neha-Rawat-tech)  
 
 ---
